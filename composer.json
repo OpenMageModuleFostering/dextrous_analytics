@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Dextrous_Analytics",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Ecommerce tracking allows you to measure the number of transactions and revenue that your website generates.",
+    "authors": [
+    {
+        "name": "Hemant kumar sharma",
+        "email": "hemant7677@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

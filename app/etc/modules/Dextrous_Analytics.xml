@@ -1,0 +1,8 @@
+<config>
+	<modules>
+		<Dextrous_Analytics>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Dextrous_Analytics>
+	</modules>
+</config>
