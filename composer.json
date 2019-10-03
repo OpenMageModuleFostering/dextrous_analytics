@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Dextrous_Analytics",
+    "name": "openmage-module-fostering\/dextrous_analytics",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Ecommerce tracking allows you to measure the number of transactions and revenue that your website generates.",
     "authors": [
